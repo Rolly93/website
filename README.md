@@ -7,3 +7,6 @@ check it out](https://www.learnenough.com/git-tutorial), and be sure to [join
 the email list](https://www.learnenough.com/#email_list) and [follow @learnenough](http://twitter.com/learnenough) on Twitter.
 
 After finishing *Lear Enough git to be Dangerous*, you'll knoiw enought Git to be *dengerous*. This means you'll be able to use Git to track changes in you pgrojjects , back ou date , share your work with others, and collaborate with programmers and other users of Git.
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
